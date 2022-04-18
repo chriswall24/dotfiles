@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = cbwall24@gmail.com
+	name = Chris Wall
